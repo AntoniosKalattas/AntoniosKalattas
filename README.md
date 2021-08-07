@@ -42,12 +42,13 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=AntoniosKalattas&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniosKalattastheme=react&layout=compact" />
 </p>
 
 ------
 
-[BrantLauro](https://github.com/AntoniosKaalattas)
+[Antonios Kalattas](https://github.com/AntoniosKaalattas)
+[Discord](https://discord.gg/NSnzxvTWDY)
 
 Last Edited on: 05/08/2021
