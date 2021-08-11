@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **everything**
 
-- 📫 How to reach me: **brantlauro@gmail.com** & **discord**
+- 📫 How to reach me: **brantlauro@gmail.com** & <a href="https://discord.gg/NSnzxvTWDY">**discord**</a>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
