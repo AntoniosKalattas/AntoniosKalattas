@@ -1,5 +1,5 @@
 
-where are you looking at? faggot
+what are you looking at? faggot
 
 <!--
 - 🔭 I’m currently working on **everything**
