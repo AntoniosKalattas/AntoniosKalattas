@@ -1,5 +1,5 @@
 
-
+<--!
 - 🔭 I’m currently working on **everything**
 
 - 🌱 I’m currently learning **Javascript**
@@ -47,7 +47,7 @@
 
 ------
 
-[Antonios Kalattas](https://github.com/AntoniosKaalattas)
+[Antonios Kalattas](https://github.com/AntoniosKaalattas)-->
 [Discord](https://discord.gg/NSnzxvTWDY)
 
 Last Edited on: 05/08/2021<br>
