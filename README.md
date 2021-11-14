@@ -1,7 +1,6 @@
 
-what are you looking at? faggot
 
-<!--
+
 - 🔭 I’m currently working on **everything**
 
 - 🌱 I’m currently learning **Javascript**
