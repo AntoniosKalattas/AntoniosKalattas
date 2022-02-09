@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **everything**
 
-- 📫 How to reach me: **akalattas@gmail.com** & <a href="https://discord.gg/NSnzxvTWDY">**discord**</a>
+- 📫 How to reach me: **akalattasmain@gmail.com** & <a href="https://discord.gg/NSnzxvTWDY">**discord**</a>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
