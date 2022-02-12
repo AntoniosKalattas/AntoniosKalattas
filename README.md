@@ -1,12 +1,4 @@
 
-
-
-- 🔭 I’m currently working on **everything**
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **everything**
-
 - 📫 How to reach me: **akalattasmain@gmail.com** & <a href="https://discord.gg/NSnzxvTWDY">**discord**</a>
 
 <h3 align="center">Connect with me:</h3>
