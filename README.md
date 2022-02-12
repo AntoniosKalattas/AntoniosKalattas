@@ -34,7 +34,6 @@
 [Antonios Kalattas](https://github.com/AntoniosKalattas)-->
 [Discord](https://discord.gg/NSnzxvTWDY)
 
-Last Edited on: 05/08/2021<br>
 
 
 
