@@ -1,15 +1,6 @@
 
 - 📫 How to reach me: **akalattasmain@gmail.com** & <a href="https://discord.gg/NSnzxvTWDY">**discord**</a>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antonios_kalattas/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AntwniosKalatt1)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akalattasmain@gmail.com)
-  
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
