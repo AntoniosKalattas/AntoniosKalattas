@@ -31,7 +31,7 @@
 
 ------
 
-[Antonios Kalattas](https://github.com/AntoniosKalattas)-->
+[Antonios Kalattas](https://antonioskalattas.github.io/rtyg/index.html)-->
 [Discord](https://discord.gg/NSnzxvTWDY)
 
 
