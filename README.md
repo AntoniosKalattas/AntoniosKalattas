@@ -1,5 +1,5 @@
 
-- 📫 How to reach me: **akalattasmain@gmail.com** & <a href="https://discord.gg/NSnzxvTWDY">**discord**</a>
+- 📫 How to reach me: **akalattasmain@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -31,8 +31,7 @@
 
 ------
 
-[Antonios Kalattas](https://antonioskalattas.github.io/rtyg/index.html)-->
-[Discord](https://discord.gg/NSnzxvTWDY)
+[Antonios Kalattas](https://antonioskalattas.github.io/rtyg/index.html)
 
 
 
