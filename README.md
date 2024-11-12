@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonios Kalattas</h1>
 <h3 align="center">Computer Science student at UCY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioskalattas&label=Profile%20views&color=0e75b6&style=flat" alt="antonioskalattas" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://antonioskalattas.github.io/AntoniosKalattas_site/index.html](https://antonioskalattas.github.io/AntoniosKalattas_site/index.html)
 
 - 📫 How to reach me **akalattasmain@gmail.com**
