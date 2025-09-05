@@ -1,7 +1,7 @@
 <h1 align="center">Antonios Kalattas</h1>
 <h3 align="center">Computer Science student at UCY</h3>
 
-- 👨‍💻 All of my projects are available at [https://antonioskalattas.github.io/AntoniosKalattas_site/index.html](https://antonioskalattas.github.io/AntoniosKalattas_site/index.html)
+- 👨‍💻 All of my projects are available at [https://antonioskalattas.github.io/AntoniosKalattas_site/index.html](https://antonioskalattas.github.io/)
 
 - 📫 How to reach me **akalattasmain@gmail.com**
 
